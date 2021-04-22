@@ -4,9 +4,9 @@ Thanks for visiting my GitHub page!
 
 I am a Full-Stack Developer working in Cork, Ireland.
 
-🏢 I'm currently working at McKesson
-⚙️ Working daily with React, Python, GitHub Actions
-🌱 Always learning more about CI/CD, Zero Downtime Deployments and SecDevOps
+🏢 I'm currently working at McKesson <br>
+⚙️ Working daily with React, Python, GitHub Actions <br>
+🌱 Always learning more about CI/CD, Zero Downtime Deployments and SecDevOps <br>
 
 
 TECHNOLOGIES
