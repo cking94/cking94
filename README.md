@@ -3,7 +3,6 @@
 
 My name is Caoimhín, I am a Full-Stack Developer working in **Cork, Ireland**. I am interested in all things tech.
 
-##### 🏢 I'm currently working at **McKesson** <br>
 ##### ⚙️ Working daily with **React, Python and GitHub Actions** <br>
 ##### 🌱 Always learning **CI/CD, Zero Downtime Deployments and SecDevOps** <br>
 
